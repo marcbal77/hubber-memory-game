@@ -41,7 +41,7 @@ function getHubbers(callback) {
         done(err, data);
     });
 }
-
+// namaste
 // http://stackoverflow.com/a/2450976/1420197
 function shuffle(array) {
     var currentIndex = array.length, temporaryValue, randomIndex ;

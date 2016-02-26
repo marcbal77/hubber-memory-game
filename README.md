@@ -17,7 +17,7 @@ Hosted using [GitHub Pages](https://pages.github.com/).
 - Make your awesome changes in your topic branch.
 - Send a pull request from your branch to this repository.
 
-### Running locally
+### Running locally 
 
 Just open the index.html file in a browser. No frameworks needed. :grin:
 
@@ -32,3 +32,4 @@ This file is updated automatically using the [`build.js`](/build.js) script and 
 $ npm i
 $ node build.js <token>
 ```
+

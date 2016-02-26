@@ -5,7 +5,7 @@ var GitHub = require("gh.js")
   , Fs = require("fs")
   ;
 
-// A token is almost mandatory
+// A token is almost mandatory!
 if (!process.argv[2]) {
     Logger.log("Usage: node build.js <token>", "warn");
     Logger.log("If a token is not provided, this script will fail due to the API rate limit.", "warn");
